@@ -66,7 +66,7 @@ const tayal = {
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,vercel,gmail,discord,linkdin,linux,replit,sublime&theme=dark&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,vercel,gmail,discord,linkedin,linux,replit,sublime&theme=dark&perline=8)](https://skillicons.dev)
 
   </td>
   </tr>
