@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=160&section=header&text=Tayal01&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20Learner%20by%20Nature&descAlignY=58&descColor=38bdf8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=console.log(%22still+learning%2C+still+growing%22);Building+things+that+actually+work;React+%7C+Node.js+%7C+Full+Stack;One+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=console.log(%22still+learning%2C+still+growing%22);Building+things+that+actually+work;React+%7C+Node.js+%7C+Full+Stack;One+commit+at+a+time+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,7 @@ const tayal = {
   role:     "Full Stack Developer in Progress",
   location: "India 🇮🇳",
   learning: ["React", "Node.js", "System Design"],
-  building: "Evalix — a programming assessment platform",
+  building: "Evalix — programming assessment platform",
   goal:     "Ship real products, grow every single day",
   funFact:  "I debug better at night ☕"
 };
@@ -47,48 +47,31 @@ const tayal = {
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## Projects
 
 ### Evalix — Programming Assessment Platform
-> Students ko real-world coding aur MCQ tests dene ka platform — jaise ek mini HackerRank.
 
-**Problem it solves:** Colleges aur bootcamps ke paas ek simple, deployable assessment tool nahi hota jo MCQ + coding dono support kare with a built-in leaderboard.
-
-**Built with:** React · Redux · Vite · Monaco Editor · React Router · localStorage
+> Colleges aur bootcamps ke paas ek simple deployable assessment tool nahi hota jo MCQ + coding dono support kare with a built-in leaderboard — Evalix usi problem ko solve karta hai.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tayal01/evalix)
+
+[![Frontend](https://skillicons.dev/icons?i=react,redux,vite,js&theme=dark)](https://skillicons.dev)
 
 ---
 
