@@ -37,29 +37,40 @@ const tayal = {
 | Topic | Progress |
 |-------|----------|
 | React Advanced Patterns | ████████░░ 80% |
-| Node.js & REST APIs | ██████░░░░ 60% |
-| System Design Basics | ████░░░░░░ 40% |
-| TypeScript | ███░░░░░░░ 30% |
+| Node.js & REST APIs     | ██████░░░░ 60% |
+| System Design Basics    | ████░░░░░░ 40% |
+| TypeScript              | ███░░░░░░░ 30% |
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark)](https://skillicons.dev)
+**Programming Languages**
 
-**Frontend**
+[![Languages](https://skillicons.dev/icons?i=py,java,js,ts,cs,kotlin,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
+**Frameworks & Libraries**
 
-**Backend & Database**
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tensorflow,redux,tailwind&theme=dark&perline=8)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=dark)](https://skillicons.dev)
+  </td>
+  <td valign="top" width="50%">
 
-**Tools**
+**Database & Services**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,firebase,mysql,graphql,docker,kubernetes,gitlab,azure,gcp&theme=dark&perline=8)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,heroku,vscode,rider,idea,androidstudio,vercel&theme=dark&perline=8)](https://skillicons.dev)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,7 +82,7 @@ const tayal = {
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tayal01/evalix)
 
-[![Frontend](https://skillicons.dev/icons?i=react,redux,vite,js&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,redux,vite,js&theme=dark)](https://skillicons.dev)
 
 ---
 
