@@ -51,22 +51,22 @@ const tayal = {
 
 **Programming Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,java,js,ts,cs,kotlin,html,css&theme=dark&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,js,ts,cs,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tensorflow,redux,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
 
   </td>
   <td valign="top" width="50%">
 
 **Database & Services**
 
-[![Database](https://skillicons.dev/icons?i=mongodb,firebase,mysql,graphql,docker,kubernetes,gitlab,azure,gcp&theme=dark&perline=8)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,firebase,mysql,docker,gitlab,postman&theme=dark&perline=8)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,heroku,vscode,rider,idea,androidstudio,vercel&theme=dark&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,vercel,gmail,discord,linkdin,linux,replit,sublime&theme=dark&perline=8)](https://skillicons.dev)
 
   </td>
   </tr>
