@@ -10,11 +10,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tayal01&color=38bdf8&style=flat-square&label=Profile+Views)](https://github.com/Tayal01)
-[![GitHub followers](https://img.shields.io/github/followers/Tayal01?style=flat-square&color=38bdf8&labelColor=0f172a)](https://github.com/Tayal01)
-
 </div>
-
 ---
 
 ## About Me
