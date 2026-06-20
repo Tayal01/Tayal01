@@ -51,7 +51,7 @@ const tayal = {
 
 **Programming Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,java,js,ts,cs,html,css&theme=dark&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,cs,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
