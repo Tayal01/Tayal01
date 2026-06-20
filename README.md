@@ -1,88 +1,66 @@
-<!--
-**Tayal01/Tayal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Tayal01 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack Developer in Progress**
 
-<!-- Header Section -->
- <h1 align="center">👋 Hi, I'm <span style="color:#00C2CB">Lakshay Tayal</span></h1>
-<h3 align="center">🚀 Passionate Developer | 🧠 MERN Stack Enthusiast | ☁️ Exploring AWS & DevOps</h3>
+*Building real projects, learning every day.*
 
-<p align="center">
-  I love building <b>scalable web applications</b>, learning about <b>cybersecurity</b>, and exploring <b>cloud technologies</b>.<br>
-  Currently mastering the <b>MERN Stack</b> and growing as a full-stack problem solver.
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Tayal01&color=2563eb&style=flat-square&label=Profile+Views)](https://github.com/Tayal01)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack  
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CyberSecurity-2E8B57?style=for-the-badge&logo=probot&logoColor=white" />
-</p>
+- 🚀 Full Stack Developer in progress — focused on building real, useful products
+- ⚛️ Currently working with **React**, **Node.js**, and modern web technologies
+- 🛠️ Built **Evalix** — a programming assessment platform with admin panel
+- 📚 Always learning, always shipping
 
 ---
 
-### 📈 GitHub Stats  
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayal01&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayal01&layout=compact&theme=radical" height="150"/>
-</p>
+**Frontend**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tayal01&theme=radical" alt="GitHub Streak" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Backend & Tools**
 
-### 🎯 Goals & Learning Journey  
-
-- 🌱 Mastering **MERN Stack** and improving backend logic  
-- 🔐 Exploring **Cybersecurity** fundamentals  
-- ☁️ Understanding **AWS & DevOps** for scalable web apps  
-- ⚡ Preparing to build my first **personal projects** soon  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-### 🌐 Connect with Me  
+## Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshay-tayal-b25533378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Tayal01">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Evalix**](https://github.com/Tayal01/evalix) | Programming assessment platform with timed MCQ & coding tests, admin panel, and leaderboard | React, Redux, Vite |
 
 ---
 
-### 🧩 Fun Fact  
+## GitHub Stats
 
-<p align="center">
-  💡 “Code. Secure. Scale. Repeat.” — that’s my daily mantra.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2CB&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;CyberSecurity+Learner;AWS+%26+DevOps+Explorer" />
-</p>
- 
+![Tayal01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayal01&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayal01&layout=compact&hide_border=true&title_color=2563eb&theme=default)
+
+</div>
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tayal01-181717?style=for-the-badge&logo=github)](https://github.com/Tayal01)
+
+</div>
