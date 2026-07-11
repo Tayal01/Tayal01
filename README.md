@@ -20,7 +20,7 @@
 <tr>
 <td width="35%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/profile-ascii-transparent.png" width="260"/>
+<!-- <img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/profile-ascii-transparent.png" width="260"/> -->
 
 </td>
 <td width="65%" valign="middle">
