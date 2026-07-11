@@ -16,11 +16,16 @@
 
 ## About Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assests/about-me-fetch (1).png" alt="About Me"/>
-
-</div>
+```javascript
+const tayal = {
+  role:     "Full Stack Developer in Progress",
+  location: "India 🇮🇳",
+  learning: ["React", "Node.js", "System Design"],
+  building: "Evalix — programming assessment platform",
+  goal:     "Ship real products, grow every single day",
+  funFact:  "I debug better at night ☕"
+};
+```
 
 ---
 
@@ -50,7 +55,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
 
   </td>
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
 
 **Database & Services**
 
@@ -79,14 +84,10 @@
 ## GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Tayal01&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0f172a&text_color=e2e8f0&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayal01&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0f172a&text_color=e2e8f0" height="165"/>
-
 <br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tayal01&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)
-
 </div>
 
 ---
