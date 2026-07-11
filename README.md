@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/about-me-fetch (1).png" alt="About Me"/>
+<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assests/about-me-fetch (1).png" alt="About Me"/>
 
 </div>
 
