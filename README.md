@@ -86,15 +86,15 @@ const tayal = {
 
 ## Projects
 
-### 🧠 WFX AI ERP — AI-Native ERP Exploration Platform for Apparel Sourcing
-> A full-stack system that lets merchandisers and buyers query ERP data in plain English — *"Which supplier supplied the most denim products?"* or *"Show all black hoodies under ₹900"* — instead of writing SQL or digging through back-office screens. Not a chatbot: a structured PostgreSQL database, a natural-language-to-SQL engine, hybrid text + image vector search, clean REST APIs, and a React frontend, all built with clean, modular, service-oriented architecture.
+### WFX AI ERP — AI-Native ERP Exploration Platform for Apparel Sourcing
+> A full-stack system that lets merchandisers and buyers query ERP data in plain English — *"Which supplier supplied the most denim products?"* or "Show all black hoodies under ₹900"* — instead of writing SQL or digging through back-office screens. Not a chatbot: a structured PostgreSQL database, a natural-language-to-SQL engine, hybrid text + image vector search, clean REST APIs, and a React frontend, all built with clean, modular, service-oriented architecture.
 
 **Key capabilities**
-- 🔎 **Natural Language → SQL** via Vanna AI + OpenRouter (`gpt-4o-mini`), streamed token-by-token over SSE, with a strict SQL-safety validator (SELECT-only, keyword blocklist, table whitelist, forced row limits)
-- 🖼️ **Image similarity search** using CLIP (`clip-ViT-B-32`) embeddings in a shared 512-dim text/image space, with automatic fallback from Typesense to Supabase/pgvector if search is down
-- 📊 **Live dashboard** with KPIs and charts, all aggregated server-side in SQL
-- 🗂️ **Finished Goods Explorer** — paginated, sortable, filterable product gallery
-- 🔐 Supabase Auth + Row Level Security on every table, JWT-protected REST APIs
+- Natural Language → SQL** via Vanna AI + OpenRouter (`gpt-4o-mini`), streamed token-by-token over SSE, with a strict SQL-safety validator (SELECT-only, keyword blocklist, table whitelist, forced row limits)
+- Image similarity search** using CLIP (`clip-ViT-B-32`) embeddings in a shared 512-dim text/image space, with automatic fallback from Typesense to Supabase/pgvector if search is down
+- Live dashboard** with KPIs and charts, all aggregated server-side in SQL
+- Finished Goods Explorer** — paginated, sortable, filterable product gallery
+- Supabase Auth + Row Level Security on every table, JWT-protected REST APIs
 
 **Tech stack:** React 18 · Vite · Tailwind · FastAPI · SQLAlchemy · PostgreSQL (Supabase + pgvector) · Vanna AI · OpenRouter · Typesense · Sentence-Transformers (CLIP) · deployed on Vercel + Railway + Supabase
 
