@@ -16,16 +16,29 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="35%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/profile-ascii-transparent.png" width="260"/>
+
+</td>
+<td width="65%" valign="middle">
+
 ```javascript
 const tayal = {
   role:     "Full Stack Developer in Progress",
   location: "India 🇮🇳",
   learning: ["React", "Node.js", "System Design"],
-  building: "Evalix — programming assessment platform",
+  building: ["WFX AI ERP — AI-native ERP for apparel sourcing", "Evalix — programming assessment platform"],
   goal:     "Ship real products, grow every single day",
   funFact:  "I debug better at night ☕"
 };
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,18 +61,18 @@ const tayal = {
 
 **Programming Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,js,ts,cs,html,css&theme=dark&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,py,js,ts,cs,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap,fastapi&theme=dark&perline=8)](https://skillicons.dev)
 
   </td>
-  <td valign="top" width="50%">
+    <td valign="top" width="50%">
 
 **Database & Services**
 
-[![Database](https://skillicons.dev/icons?i=mongodb,firebase,mysql,docker,gitlab,postman&theme=dark&perline=8)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,supabase,docker,gitlab,postman&theme=dark&perline=8)](https://skillicons.dev)
 
 **Tools & Platforms**
 
@@ -73,6 +86,24 @@ const tayal = {
 
 ## Projects
 
+### 🧠 WFX AI ERP — AI-Native ERP Exploration Platform for Apparel Sourcing
+> A full-stack system that lets merchandisers and buyers query ERP data in plain English — *"Which supplier supplied the most denim products?"* or *"Show all black hoodies under ₹900"* — instead of writing SQL or digging through back-office screens. Not a chatbot: a structured PostgreSQL database, a natural-language-to-SQL engine, hybrid text + image vector search, clean REST APIs, and a React frontend, all built with clean, modular, service-oriented architecture.
+
+**Key capabilities**
+- 🔎 **Natural Language → SQL** via Vanna AI + OpenRouter (`gpt-4o-mini`), streamed token-by-token over SSE, with a strict SQL-safety validator (SELECT-only, keyword blocklist, table whitelist, forced row limits)
+- 🖼️ **Image similarity search** using CLIP (`clip-ViT-B-32`) embeddings in a shared 512-dim text/image space, with automatic fallback from Typesense to Supabase/pgvector if search is down
+- 📊 **Live dashboard** with KPIs and charts, all aggregated server-side in SQL
+- 🗂️ **Finished Goods Explorer** — paginated, sortable, filterable product gallery
+- 🔐 Supabase Auth + Row Level Security on every table, JWT-protected REST APIs
+
+**Tech stack:** React 18 · Vite · Tailwind · FastAPI · SQLAlchemy · PostgreSQL (Supabase + pgvector) · Vanna AI · OpenRouter · Typesense · Sentence-Transformers (CLIP) · deployed on Vercel + Railway + Supabase
+
+[![Live Frontend](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://wfx-ai-erp-frontend.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-0B0D0E?style=for-the-badge&logo=fastapi)](https://wfx-ai-erp-backend.up.railway.app)
+[![Stack](https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi,postgres,supabase,vercel&theme=dark)](https://skillicons.dev)
+
+---
+
 ### Evalix — Programming Assessment Platform
 > Colleges aur bootcamps ke paas ek simple deployable assessment tool nahi hota jo MCQ + coding dono support kare with a built-in leaderboard — Evalix usi problem ko solve karta hai.
 
@@ -85,7 +116,7 @@ const tayal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tayal01&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0f172a&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tayal01&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0f172a&text_color=e2e8f0&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayal01&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0f172a&text_color=e2e8f0" height="165"/>
 
 <br/>
