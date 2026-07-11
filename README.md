@@ -131,29 +131,11 @@ const tayal = {
 
 ## About Me
 
-<table>
-<tr>
-<td width="25%" valign="middle" align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/profile.jpg" width="180" style="border-radius:50%;" alt="Tayal01 profile photo"/>
+<img src="https://raw.githubusercontent.com/Tayal01/Tayal01/main/assets/about-me-fetch.png" alt="About Me"/>
 
-</td>
-<td width="75%" valign="middle">
-
-\`\`\`javascript
-const tayal = {
-  role:     "Full Stack Developer in Progress",
-  location: "India 🇮🇳",
-  learning: ["React", "Node.js", "System Design"],
-  building: "Evalix — programming assessment platform",
-  goal:     "Ship real products, grow every single day",
-  funFact:  "I debug better at night ☕"
-};
-\`\`\`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
